@@ -1,5 +1,6 @@
 int main()
 {
+printf("topic:002");
 printf("topic:001");
 printf("master:001");
 printf("master:002");
